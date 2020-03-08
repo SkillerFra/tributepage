@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;;
+}
+
+.title-box{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    margin: 1% 2.5% 0% 2.5%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    background-color: #193441;
+}
+
+.title-head{
+    background-color: #193441;
+}
+
+.title-foot{
+    background-color: #193441;
+}
+
+.t-i-t-container{
+    margin: 1% 2.5% 0% 2.5%;
+    padding: 1% 2.5% 1% 2.5%;
+    border-radius: 15px;
+    display: flex;
+    flex-flow: row wrap;
+    font-family: 'Robot Condensed', sans-serif;
+    color: white;
+    justify-content: space-between;
+    word-wrap: break-word;
+}
+
+#tribute-info{
+    padding: 1% 2.5% 1% 2.5%;
+    border-radius: 15px;
+    background-color: #193441; 
+    max-width: 20%;
+}
+
+.image{
+    margin-left: 1.7%;
+    margin-right: 2.5%;
+    border-radius: 15px;
+    width: 40%;
+    
+}
+
+.jack-ma-image{
+    max-width: 100%;
+    border-radius: 15px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    border: 5px solid  #193441;
+}
+
+
+
+.text-left-title{
+    background-color: #193441;
+    margin-bottom: 10%;
+    text-align: center;
+    
+}
+
+.text-left-content{
+    font-size: 14px;
+    background-color: #193441;
+    margin-bottom: 5px;
+}
+
+strong{
+    background-color: #193441;
+}
+
+.text-right-title{
+    background-color: #193441;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.text-right-content{
+    font-size: 14px;
+    background-color: #193441;
+    margin-bottom: 5px;
+}
+
+.jack-info{
+    margin: 1% 10% 0% 10%;
+    padding: 1% 2.5% 1% 2.5%;
+    color: white;
+    background-color: #193441;
+    border-radius: 15px;
+    font-family: 'Robot Condensed', sans-serif;
+    word-wrap: break-word;
+    display: flex;
+    flex-flow: column wrap;
+    font-size: 14px;
+    
+}
+
+#jack-info{
+    align-self: center;
+    margin-bottom: 1%;
+}
+
+.footer{
+    margin: 1% 2.5% 1% 2.5%;
+    background-color: #193441;
+    border-radius: 15px;
+    font-family: 'Robot Condensed', sans-serif;
+    color: white;
+    padding: 1% 2.5% 1% 2.5%;
+}
+
+#footer-title{
+   text-align: center;
+   margin-bottom: 1%;
+}
+
+#tribute-link{
+    color: white;
+}
+
+.icons{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.wikipedia-icon{
+    margin-left: 2.5%;
+    margin-right: 2.3%;
+}
